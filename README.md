@@ -2,7 +2,7 @@
 <img src="https://h.top4top.io/p_2304omkut0.jpg" width="150" height="150"/>
 </p>
 <p align="center">
-<a href="#"><img title="JAPANESE CS" src="https://img.shields.io/badge/JAPANESE CLASS SENPAI-succesa"></a>
+<a href="https://jcs-id.blogspot.com"><img title="JAPANESE CS" src="https://img.shields.io/badge/JAPANESE CLASS SENPAI-succesa"></a>
 </p>
 <p align="center">
 <a href=""><img title="Author" src="https://img.shields.io/badge/DOWNLOAD JCS ID VERSI .APK-informational.svg"></a>
