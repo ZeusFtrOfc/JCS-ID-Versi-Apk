@@ -14,7 +14,7 @@
 </p>
 
 #Link JCS-ID.apk
-* <a href="https://www.mediafire.com/file/yilz3dnwfniedzh/JCS-ID.apk/file"><img title="VERSI .APK" src="https://img.shields.io/badge/LINK-succes.svg"</a>
+* <a href="https://chat.whatsapp.com/CGQ5vRabGCK88fLenNSHyo"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
 ## Group JCS-ID
