@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://h.top4top.io/p_2304omkut0.jpg" width="350" height="300"/>
+<img src="https://h.top4top.io/p_2304omkut0.jpg" width="450" height="450"/>
 </p>
 <p align="center">
 <a href="#"><img title="JAPANESE CS" src="https://img.shields.io/badge/JAPANESE CLASS SENPAI-succesa"></a>
