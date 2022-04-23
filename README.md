@@ -14,7 +14,7 @@
 </p>
 
 #Link JCS-ID.apk
-<a href="https://www.mediafire.com/file/yilz3dnwfniedzh/JCS-ID.apk/file"><img title="VERSI .APK" src="https://img.shields.io/badge/LINK-succes.svg"</a>
+* <a href="https://www.mediafire.com/file/yilz3dnwfniedzh/JCS-ID.apk/file"><img title="VERSI .APK" src="https://img.shields.io/badge/LINK-succes.svg"</a>
 
 
 ## Group JCS-ID
