@@ -5,7 +5,7 @@
 <a href="https://jcs-id.blogspot.com"><img title="JAPANESE CS" src="https://img.shields.io/badge/JAPANESE CLASS SENPAI-succesa"></a>
 </p>
 <p align="center">
-<a href="https://www.mediafire.com/file/yilz3dnwfniedzh/JCS-ID.apk/file"><img title="Author" src="https://img.shields.io/badge/DOWNLOAD JCS ID VERSI .APK-informational.svg"></a>
+<a href="https://www.mediafire.com/file/0xk4xde7o6ssvzz/JCS.apk/file"><img title="Author" src="https://img.shields.io/badge/DOWNLOAD JCS ID VERSI .APK-informational.svg"></a>
 </p>
 <p align="center">
 <a href="https://jcs-id.blogspot.com"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
@@ -14,7 +14,7 @@
 </p>
 
 ## Link JCS-ID.apk
-* <a href="https://www.mediafire.com/file/yilz3dnwfniedzh/JCS-ID.apk/file"><img alt="VERSI .APK" src="https://img.shields.io/badge/VERSI .APK-blue"/></a>
+* <a href="https://www.mediafire.com/file/0xk4xde7o6ssvzz/JCS.apk/file"><img alt="VERSI .APK" src="https://img.shields.io/badge/VERSI .APK-blue"/></a>
 
 
 ## Group JCS-ID
